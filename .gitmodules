@@ -1,0 +1,30 @@
+[submodule "ros/rosinante_bringup"]
+	path = ros/rosinante_bringup
+	url = git@git.junk.technology:rosinante/rosinante_bringup.git
+[submodule "ros/rosinante_description"]
+	path = ros/rosinante_description
+	url = git@git.junk.technology:rosinante/rosinante_description.git
+[submodule "ros/rosinante_position_controller"]
+	path = ros/rosinante_position_controller
+	url = git@git.junk.technology:rosinante/rosinante_position_controller.git
+[submodule "ros/rosinante_position_controller_interfaces"]
+	path = ros/rosinante_position_controller_interfaces
+	url = git@git.junk.technology:rosinante/rosinante_position_controller_interfaces.git
+[submodule "ros/ros2_odrive"]
+	path = ros/ros2_odrive
+	url = git@git.junk.technology:ros2/ros2_odrive
+[submodule "ros/ros2_control_mecanum_controller"]
+	path = ros/ros2_control_mecanum_controller
+	url = git@git.junk.technology:ros2/ros2_control_mecanum_controller
+[submodule "ros/ros2_odrive_interfaces"]
+	path = ros/ros2_odrive_interfaces
+	url = git@git.junk.technology:ros2/ros2_odrive_interfaces
+[submodule "ros/ros2_control_odriver_hw"]
+	path = ros/ros2_control_odriver_hw
+	url = git@git.junk.technology:ros2/ros2_control_odrive_hw
+[submodule "ros/rosinante_bprotect_interface"]
+	path = ros/rosinante_bprotect_interface
+	url = git@git.junk.technology:rosinante/rosinante_bprotect_interface
+[submodule "ros/rosinante_bprotect_interfaces"]
+	path = ros/rosinante_bprotect_interfaces
+	url = git@git.junk.technology:rosinante/rosinante_bprotect_interfaces
