@@ -28,3 +28,12 @@
 [submodule "ros/rosinante_bprotect_interfaces"]
 	path = ros/rosinante_bprotect_interfaces
 	url = git@git.junk.technology:rosinante/rosinante_bprotect_interfaces
+[submodule "modules/bprotect"]
+	path = modules/bprotect
+	url = git@git.junk.technology:rosinante/bprotect.git
+[submodule "modules/frame"]
+	path = modules/frame
+	url = git@git.junk.technology:rosinante/rosinante_mechanical.git
+[submodule "modules/supervisor"]
+	path = modules/supervisor
+	url = git@git.junk.technology:rosinante/rosinante_supervisor.git
