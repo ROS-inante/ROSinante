@@ -37,3 +37,6 @@
 [submodule "modules/supervisor"]
 	path = modules/supervisor
 	url = git@git.junk.technology:rosinante/rosinante_supervisor.git
+[submodule "ros/mocap_optitrack"]
+	path = ros/mocap_optitrack
+	url = git@git.junk.technology:ros2/mocap_optitrack.git
