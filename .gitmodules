@@ -31,8 +31,8 @@
 [submodule "modules/bprotect"]
 	path = modules/bprotect
 	url = git@github.com:ROS-inante/bprotect.git
-[submodule "modules/mechanical"]
-	path = modules/mechanical
+[submodule "modules/frame"]
+	path = modules/frame
 	url = git@github.com:ROS-inante/rosinante_mechanical.git
 [submodule "modules/supervisor"]
 	path = modules/supervisor
