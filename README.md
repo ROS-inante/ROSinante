@@ -23,4 +23,4 @@ Here you will find the design files for the [frame](/modules/frame/), the [batte
 For details on them, please see the appropriate chapter in the [thesis](/thesis).
 
 # Licensing
-Please not that the indivdual submodules are licensed under their own terms and do not fall under the licensing terms of this repository.
+Please note that the indivdual submodules are licensed under their own terms and do not fall under the licensing terms of this repository.
