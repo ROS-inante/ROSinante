@@ -18,7 +18,7 @@ All ROS nodes reside in the [ros](/ros/) folder.
 
 The files for seperate necessary robot modules can be found in the [modules](/modules/) folder.
 
-Here you will find the design files for the [frame](/modules/frame/), the [batter controller](/modules/bprotect/) and the [supervisor](/modules/supervisor/).
+Here you will find the design files for the [frame and other physical part](/modules/mechanical/), the [batter controller](/modules/bprotect/) and the [supervisor](/modules/supervisor/).
 
 For details on them, please see the appropriate chapter in the [thesis](/thesis).
 
