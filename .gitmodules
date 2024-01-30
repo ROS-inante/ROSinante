@@ -1,42 +1,42 @@
 [submodule "ros/rosinante_bringup"]
 	path = ros/rosinante_bringup
-	url = git@github.com:ROS-inante/rosinante_bringup.git
+	url = https://github.com/ROS-inante/rosinante_bringup.git
 [submodule "ros/rosinante_description"]
 	path = ros/rosinante_description
-	url = git@github.com:ROS-inante/rosinante_description.git
+	url = https://github.com/ROS-inante/rosinante_description.git
 [submodule "ros/rosinante_position_controller"]
 	path = ros/rosinante_position_controller
-	url = git@github.com:ROS-inante/rosinante_position_controller.git
+	url = https://github.com/ROS-inante/rosinante_position_controller.git
 [submodule "ros/rosinante_position_controller_interfaces"]
 	path = ros/rosinante_position_controller_interfaces
-	url = git@github.com:ROS-inante/rosinante_position_controller_interfaces.git
+	url = https://github.com/ROS-inante/rosinante_position_controller_interfaces.git
 [submodule "ros/ros2_odrive"]
 	path = ros/ros2_odrive
-	url = git@github.com:ROS-inante/ros2_odrive
+	url = https://github.com/ROS-inante/ros2_odrive
 [submodule "ros/ros2_control_mecanum_controller"]
 	path = ros/ros2_control_mecanum_controller
-	url = git@github.com:ROS-inante/ros2_control_mecanum_controller.git
+	url = https://github.com/ROS-inante/ros2_control_mecanum_controller.git
 [submodule "ros/ros2_odrive_interfaces"]
 	path = ros/ros2_odrive_interfaces
-	url = git@github.com:ROS-inante/ros2_odrive_interfaces.git
+	url = https://github.com/ROS-inante/ros2_odrive_interfaces.git
 [submodule "ros/ros2_control_odriver_hw"]
 	path = ros/ros2_control_odriver_hw
-	url = git@github.com:ROS-inante/ros2_control_odrive_hw.git
+	url = https://github.com/ROS-inante/ros2_control_odrive_hw.git
 [submodule "ros/rosinante_bprotect_interface"]
 	path = ros/rosinante_bprotect_interface
-	url = git@github.com:ROS-inante/rosinante_bprotect_interface.git
+	url = https://github.com/ROS-inante/rosinante_bprotect_interface.git
 [submodule "ros/rosinante_bprotect_interfaces"]
 	path = ros/rosinante_bprotect_interfaces
-	url = git@github.com:ROS-inante/rosinante_bprotect_interfaces.git
+	url = https://github.com/ROS-inante/rosinante_bprotect_interfaces.git
 [submodule "modules/bprotect"]
 	path = modules/bprotect
-	url = git@github.com:ROS-inante/bprotect.git
+	url = https://github.com/ROS-inante/bprotect.git
 [submodule "modules/mechanical"]
 	path = modules/mechanical
-	url = git@github.com:ROS-inante/rosinante_mechanical.git
+	url = https://github.com/ROS-inante/rosinante_mechanical.git
 [submodule "modules/supervisor"]
 	path = modules/supervisor
-	url = git@github.com:ROS-inante/rosinante_supervisor.git
+	url = https://github.com/ROS-inante/rosinante_supervisor.git
 [submodule "ros/mocap_optitrack"]
 	path = ros/mocap_optitrack
-	url = git@github.com:ROS-inante/mocap_optitrack.git
+	url = https://github.com/ROS-inante/mocap_optitrack.git
