@@ -22,6 +22,12 @@ sudo apt install -yy ros-galactic-control-toolbox ros-galactic-controller-interf
 sudo apt install -yy python3-pip
 sudo pip install --upgrade odrive
 
+
+sudo apt install -yy libusb-1.0.0-dev
+
+sudo apt install -yy ros-galacitc-ros2-ign* ros-galactic-ros-ign ros-galactic-robot-localization
+
+
 sudo apt install -yy python3-hidapi
 
 sudo apt install -yy snapd
